@@ -1,0 +1,16 @@
+{
+  "posts": [
+   {
+    "name" : "Salem"
+   },
+   {
+    "name" : "Sam"
+   },
+   {
+    "name" : "Sunny"
+   }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
